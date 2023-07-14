@@ -3,7 +3,7 @@
 - **Description**: Translates a Zeek query log to OCSF. 
 - **Event References**:
   - https://docs.zeek.org/en/master/logs/dns.html
-  - [https://schema.ocsf.io/1.0.0-rc.3/objects/dns_query](https://schema.ocsf.io/1.0.0-rc.3/classes/dns_activity)
+  - https://schema.ocsf.io/1.0.0-rc.3/objects/dns_query
 
  ### OCSF Version: 1.0.0-rc.2
  - `category_uid`: `4`
