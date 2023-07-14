@@ -38,9 +38,7 @@
 |''dst_endpoint.port''|'id.resp_p'|
 |''connection_info.protocol_name''|'proto'|
 |''transaction_uid''|'trans_id'|
-|''ttl''|'TTLs|
-
-
+|''dns_answer.ttl''|'TTLs|
 
 
  ### Conditional Mapping:
